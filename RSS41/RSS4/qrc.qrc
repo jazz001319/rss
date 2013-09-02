@@ -7,6 +7,16 @@
         <file>ComboBoxButton.qml</file>
         <file>NewsDelegate.qml</file>
         <file>main.qml</file>
+        <file>FeedModel.qml</file>
+        <file>TreeView.qml</file>
+        <file>ButtonExit.qml</file>
+        <file>RssNews.qml</file>
+        <file>ButtonAdd.qml</file>
+        <file>ButtonReturn.qml</file>
+        <file>AddRow.qml</file>
+        <file>DeleteRow.qml</file>
+        <file>AddcategoryRow.qml</file>
+        <file>DeleteCategoryRow.qml</file>
     </qresource>
     <qresource prefix="/images">
         <file>scrollbar.png</file>

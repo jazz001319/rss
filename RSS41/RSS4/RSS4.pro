@@ -29,7 +29,16 @@ OTHER_FILES += \
     BusyIndicator.qml \
     ComboBox.qml \
     ComboBoxButton.qml \
-    CategoriesModel.qml
+    FeedModel.qml \
+    TreeView.qml \
+    ButtonExit.qml \
+    RssNews.qml \
+    ButtonAdd.qml \
+    ButtonReturn.qml \
+    AddRow.qml \
+    DeleteRow.qml \
+    AddcategoryRow.qml \
+    DeleteCategoryRow.qml
 
 RESOURCES += \
     qrc.qrc
